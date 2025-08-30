@@ -27,8 +27,8 @@ on rightclick:
 ```
 
 ```
-CooldownManager.apply("이름", 플레이어 UUID, 초) - '플레이어 UUID'를 가진 '이름'의 쿨타임을 생성합니다
-CooldownManager.getRemaining("이름", 플레이어 UUID, 초) - '플레이어 UUID'를 가진 '이름'의 잔여 쿨타임을 가져옵니다
+CooldownManager.apply("이름", 플레이어 UUID, 초) - 'UUID'를 가진 '이름'의 쿨타임을 생성합니다
+CooldownManager.getRemaining("이름", 플레이어 UUID, 초) - 'UUID'를 가진 '이름'의 잔여 쿨타임을 가져옵니다
 ```
 
 # License
