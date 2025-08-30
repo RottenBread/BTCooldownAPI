@@ -1,5 +1,6 @@
 # BTCooldownAPI
-효율적인 쿨타임 플러그인 :3
+효율적인 쿨타임 플러그인 :3 <br>
+제미나이 마구마구 이용함
 
 # How To Use (Skript)
 ```
